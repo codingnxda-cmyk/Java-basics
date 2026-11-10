@@ -1,6 +1,5 @@
 package Week1;
 
-
 public class Print { // Class name should always start with an uppercase first letter.
 
 	public static void main(String[] args) {
@@ -11,8 +10,6 @@ public class Print { // Class name should always start with an uppercase first l
 		System.out.print("Hello World!"); // prints stays on same line
 		System.out.println(" Hello World!"); // prints on same line then line break 
 		System.out.print("Hello World!"); // prints on separate line
-	
-
 	}
 
 }
